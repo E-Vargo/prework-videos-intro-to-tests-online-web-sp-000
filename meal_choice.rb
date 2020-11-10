@@ -1,2 +1,3 @@
-def meal_choice(arg1,arg2)
+def meal_choice(vegetable,starch)
+  "A plate of meat with #{vegetable} and #{starch}"
 end
